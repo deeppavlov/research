@@ -3,7 +3,7 @@
 This is the code to reproduce results of two papers: 
 1. *"Towards a General Theory of Infinite-Width Limits of Neural Classifiers"* 
 accepted to ICML'2020 [https://arxiv.org/abs/2003.05884].
-2. *"Dynamically Stable Infinite-Width Limits of Neural Classifiers"* submitted to NeurIPS'2020 [https://arxiv.org/abs/2006.06574].
+2. *"Dynamically Stable Infinite-Width Limits of Neural Classifiers"* [https://arxiv.org/abs/2006.06574].
 
 ### Instructions for "Towards a General Theory <...>":
 
